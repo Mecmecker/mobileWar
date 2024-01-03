@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:tibiawars/models/char.dart';
-import 'package:tibiawars/models/guild.dart';
+import 'package:mobilewar/models/char.dart';
+import 'package:mobilewar/models/guild.dart';
 
 class WarScreen extends StatefulWidget {
   final String ref;

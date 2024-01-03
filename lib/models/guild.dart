@@ -1,6 +1,6 @@
-import 'package:tibiawars/models/char.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
+import 'package:mobilewar/models/char.dart';
 
 class Guild {
   String name, world;

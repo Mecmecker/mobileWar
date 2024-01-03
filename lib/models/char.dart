@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:tibiawars/models/death.dart';
 import 'package:http/http.dart' as http;
+import 'package:mobilewar/models/death.dart';
 
 class Char {
   String name, vocation, status, guild;

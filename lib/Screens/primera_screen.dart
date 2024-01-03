@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:tibiawars/Screens/char_screen.dart';
-import 'package:tibiawars/models/char.dart';
-import 'package:tibiawars/models/guild.dart';
+import 'package:mobilewar/Screens/char_screen.dart';
+import 'package:mobilewar/models/guild.dart';
+
+import '../models/char.dart';
 
 class PrimeraPantalla extends StatefulWidget {
   const PrimeraPantalla({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tibiawars/models/char.dart';
+import 'package:mobilewar/models/char.dart';
 
 class ShowCharScreen extends StatefulWidget {
   final String nameChar;
