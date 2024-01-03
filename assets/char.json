@@ -1,0 +1,192 @@
+{
+    "characters": {
+        "data": {
+            "name": "Insane Mec",
+            "title": "None (12 titles unlocked)",
+            "sex": "male",
+            "vocation": "Master Sorcerer",
+            "level": 444,
+            "achievement_points": 230,
+            "world": "Bastia",
+            "residence": "Thais",
+            "guild": {
+                "name": "Manticore",
+                "rank": "One"
+            },
+            "last_login": [
+                {
+                    "date": "2022-01-21 15:26:00.000000",
+                    "timezone_type": 2,
+                    "timezone": "CET"
+                }
+            ],
+            "account_status": "Premium Account",
+            "status": "offline"
+        },
+        "achievements": [],
+        "deaths": [
+            {
+                "date": {
+                    "date": "2022-01-05 16:08:52.000000",
+                    "timezone_type": 2,
+                    "timezone": "CET"
+                },
+                "level": 444,
+                "reason": "Annihilated by Jocke Kewk, Itzz Xed, Kizzie Katzie, Maximus Nohands, Rodrygicius Junior, Vernoz Zklanu, Wyemancypovany, Svartkonst, Norman Ky, Ziorr Zklanu, Stepdaddy Nori, Kim Zklanu, Voii Torpeden, Jim Zklanu, Voi Torpeden, Sebbe Zklanu, Vladimir Lepiev, Amazing Ygao, Sephirus Cueca and Bumbi Dank.\r\nAssisted by Headshot Qazq, Dunkenn, Mielencin Erpe, Lawbreaker Lecze, Mielencin, Gabbzter, Synnzepee, Lawbreaker Dorszyk, Emtwnty, Creedzera, Onlyhands Darkzittoow, Ue Him, Lawbreaker Fajner, Noovitokzz (traded), Lawbreakers and Tumas Tankalot",
+                "involved": [
+                    {
+                        "name": "Jocke Kewk"
+                    },
+                    {
+                        "name": "Itzz Xed"
+                    },
+                    {
+                        "name": "Kizzie Katzie"
+                    },
+                    {
+                        "name": "Maximus Nohands"
+                    },
+                    {
+                        "name": "Rodrygicius Junior"
+                    },
+                    {
+                        "name": "Vernoz Zklanu"
+                    },
+                    {
+                        "name": "Wyemancypovany"
+                    },
+                    {
+                        "name": "Svartkonst"
+                    },
+                    {
+                        "name": "Norman Ky"
+                    },
+                    {
+                        "name": "Ziorr Zklanu"
+                    },
+                    {
+                        "name": "Stepdaddy Nori"
+                    },
+                    {
+                        "name": "Kim Zklanu"
+                    },
+                    {
+                        "name": "Voii Torpeden"
+                    },
+                    {
+                        "name": "Jim Zklanu"
+                    },
+                    {
+                        "name": "Voi Torpeden"
+                    },
+                    {
+                        "name": "Sebbe Zklanu"
+                    },
+                    {
+                        "name": "Vladimir Lepiev"
+                    },
+                    {
+                        "name": "Amazing Ygao"
+                    },
+                    {
+                        "name": "Sephirus Cueca"
+                    },
+                    {
+                        "name": "Bumbi Dank"
+                    },
+                    {
+                        "name": "Headshot Qazq"
+                    },
+                    {
+                        "name": "Dunkenn"
+                    },
+                    {
+                        "name": "Mielencin Erpe"
+                    },
+                    {
+                        "name": "Lawbreaker Lecze"
+                    },
+                    {
+                        "name": "Mielencin"
+                    },
+                    {
+                        "name": "Gabbzter"
+                    },
+                    {
+                        "name": "Synnzepee"
+                    },
+                    {
+                        "name": "Lawbreaker Dorszyk"
+                    },
+                    {
+                        "name": "Emtwnty"
+                    },
+                    {
+                        "name": "Creedzera"
+                    },
+                    {
+                        "name": "Onlyhands Darkzittoow"
+                    },
+                    {
+                        "name": "Ue Him"
+                    },
+                    {
+                        "name": "Lawbreaker Fajner"
+                    },
+                    {
+                        "name": "Lawbreakers"
+                    },
+                    {
+                        "name": "Tumas Tankalot"
+                    }
+                ]
+            }
+        ],
+        "account_information": {
+            "loyalty_title": "Squire of Tibia",
+            "created": {
+                "date": "2017-09-03 14:29:38.000000",
+                "timezone_type": 2,
+                "timezone": "CEST"
+            }
+        },
+        "other_characters": [
+            {
+                "name": "Coif Plax",
+                "world": "Visabra",
+                "status": "offline"
+            },
+            {
+                "name": "Flaiiks",
+                "world": "Fera",
+                "status": "offline"
+            },
+            {
+                "name": "Insane Mec",
+                "world": "Bastia",
+                "status": "offline"
+            },
+            {
+                "name": "Nofight",
+                "world": "Bastia",
+                "status": "offline"
+            },
+            {
+                "name": "Royal Sharkaly",
+                "world": "Bastia",
+                "status": "offline"
+            },
+            {
+                "name": "Solado Bai Me",
+                "world": "Fera",
+                "status": "offline"
+            }
+        ]
+    },
+    "information": {
+        "api_version": 2,
+        "execution_time": 0.1187,
+        "last_updated": "2022-01-21 19:06:08",
+        "timestamp": "2022-01-21 19:06:08"
+    }
+}
